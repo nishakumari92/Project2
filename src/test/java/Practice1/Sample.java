@@ -8,6 +8,8 @@ public class Sample {
 	public void method() 
 	{
 		System.out.println("method running");
+		
+		//1st push
 	}
 
 }
